@@ -1,3 +1,4 @@
 -- install laravel
 Via Composer Create-Project
-composer create-project --prefer-dist laravel/laravel project-
+composer create-project --prefer-dist laravel/laravel project----runing test in php version 5.2
+vendor/bin/phpunit
